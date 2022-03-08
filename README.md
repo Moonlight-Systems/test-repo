@@ -1,0 +1,1 @@
+# Simple space tree template
